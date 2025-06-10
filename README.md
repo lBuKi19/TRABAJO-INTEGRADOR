@@ -14,9 +14,14 @@ Intrucciones de Uso
 MENÚ DE SELCCIÓN Seleccione una opción (1-9):
 Cantidad de Resultados por operación ¿Cuántas resultados deseas mostrar? (10 por defecto):
 
-ORDENAMIENTO: 2. Opción lenta, no estoy apurado (Bubble Sort) Ingrese la categoría que desea ordenar (rating, genero, año, título): 3. Opción rápida, el tiempo es oro! (Quick Sort) Ingrese la categoría que desea ordenar (rating, genero, año, título):
+ORDENAMIENTO: 2. Opción lenta, no estoy apurado (Bubble Sort) Ingrese la categoría que desea ordenar (rating, genero, año, título): 
+3. Opción rápida, el tiempo es oro! (Quick Sort) Ingrese la categoría que desea ordenar (rating, genero, año, título):
 
-BÚSQUEDA: 4. Buscar por título (lineal) Ingrese el título a buscar: 5. Buscar por género (lineal) Ingrese el genero a buscar: (Action, Comedy, Biography, Crime, etc) 6. Búsqueda por año (lineal) Ingrese el año a buscar: (4 digitos enteros) 7. Búsqueda Binaria Ingrese la categoría que desea buscar por búsqueda binaria: 8. Recomendación Ingrese los géneros que le interesan separados por espacios: 9. Salir ¡Hasta luego! 👋
+BÚSQUEDA: 4. Buscar por título (lineal) Ingrese el título a buscar: 
+5. Buscar por género (lineal) Ingrese el genero a buscar: (Action, Comedy, Biography, Crime, etc) 
+6. Búsqueda por año (lineal) Ingrese el año a buscar: (4 digitos enteros) 
+7. Búsqueda Binaria Ingrese la categoría que desea buscar por búsqueda binaria ( año o rating): luego ingrese el respectivo año, o rating ( ya entero o decimal con .)
+8. Recomendación Ingrese los géneros que le interesan separados por espacios: 9. Salir ¡Hasta luego! 👋
 
 Seleccione una opción (1-9):
 
